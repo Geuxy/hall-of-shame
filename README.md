@@ -23,3 +23,11 @@ Static is a string, trust!
 
 ## Tabio
 Tabio was the reason i became much better at java (mostly from trying to understand the base though) but the amount of pasting there was from Koks client while coding Rapid 2.0 was through the roof, and since the base was so hard to understand (after he vanished), I made Pulsar instead and stopped working on Rapid completely. I would be suprised if anyone even have Rapid 2.0 at all, at most maybe 1 person has it, but native-obfuscated.
+
+## Popkiolok
+There is no reason to be making factories for factories, 5 classes MINIMUM just to do a for loop, and yet you claim to hate boilerplate, like wtf?!?
+
+## Lemon
+"Delta is overcomplicated" how in the actual fuck is it "overcomplicated", and how is it more complex compared to this monstrosity of a falsing machine
+![image](https://github.com/user-attachments/assets/90e3a285-b93c-44f2-8f0c-87ce682d1156)
+![image](https://github.com/user-attachments/assets/78bb956d-ebff-44f7-aca8-dcd8c04e6ff4)
