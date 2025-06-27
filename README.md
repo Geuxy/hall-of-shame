@@ -22,4 +22,4 @@ never trust this retard in any way possible, theres no way they would even be ab
 Static is a string, trust!
 
 ## Tabio
-Tabio was the reason i became much better at java (mostly from trying to understand the base though) but the amount of pasting there was from Koks client while coding Rapid 2.0 was through the roof, and since the base was so hard to understand (after he vanished), I made Pulsar instead and stopped working on Rapid completely.
+Tabio was the reason i became much better at java (mostly from trying to understand the base though) but the amount of pasting there was from Koks client while coding Rapid 2.0 was through the roof, and since the base was so hard to understand (after he vanished), I made Pulsar instead and stopped working on Rapid completely. I would be suprised if anyone even have Rapid 2.0 at all, at most maybe 1 person has it, but native-obfuscated.
